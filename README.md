@@ -1,5 +1,6 @@
 # MyBB-Oyuncu-Siyah
-Tüm dosyaları **FTP**'de **MyBB**'nin bulunduğu klasöre yüklemeniz yeterli.
+Public_html içindeki tüm dosyaları **FTP**'de **MyBB**'nin bulunduğu klasöre yükleyip, oyuncu-siyah-theme.xml dosyasını forum sisteminize yüklemeniz yeterli.
+
 Ardından aşağıda ki eklentileri aktif ediniz ;
 
 - Avatarep
